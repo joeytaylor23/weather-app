@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The Weather App is a clean and responsive web application that provides real-time weather information for any city worldwide. Users can search for a location and instantly view the current temperature, weather conditions, and related icons. The app integrates with the OpenWeatherMap API to fetch accurate, up-to-date weather data.
 
-## Getting Started
+✨ Features
+🔍 Search by city name
 
-First, run the development server:
+🌡️ Real-time temperature and weather condition display
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🖼️ Dynamic weather icons
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🌍 Supports global locations
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+📱 Fully responsive and mobile-friendly UI
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+💡 Tech Stack
+HTML5
 
-## Learn More
+CSS3
 
-To learn more about Next.js, take a look at the following resources:
+JavaScript (ES6)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+OpenWeatherMap API
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+⚠️ Requires a free API key from OpenWeatherMap to function.
